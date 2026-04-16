@@ -3,6 +3,8 @@
 **Version 1 of my final-year fintech project.**  
 A privacy-first personal & group finance app for budgeting, transactions, Splitwise-style group splitting, explainable AI suggestions, and EWMA-based forecasting. Built for local prototyping (localStorage) with an easy path to server + DB.
 
+Here's the link to the repo of the final build: https://github.com/marilyndsza/FinFusion-V2
+
 ---
 
 ## 🔑 Description
